@@ -1,0 +1,38 @@
+Name,Heigth,Classification,Homeworld,Language
+Human,180,mammal,https://swapi.dev/api/planets/9/,Galactic Basic
+Droid,n/a,artificial,,n/a
+Wookie,210,mammal,https://swapi.dev/api/planets/14/,Shyriiwook
+Rodian,170,sentient,https://swapi.dev/api/planets/23/,Galatic Basic
+Hutt,300,gastropod,https://swapi.dev/api/planets/24/,Huttese
+Yoda's species,66,mammal,https://swapi.dev/api/planets/28/,Galactic basic
+Trandoshan,200,reptile,https://swapi.dev/api/planets/29/,Dosh
+Mon Calamari,160,amphibian,https://swapi.dev/api/planets/31/,Mon Calamarian
+Ewok,100,mammal,https://swapi.dev/api/planets/7/,Ewokese
+Sullustan,180,mammal,https://swapi.dev/api/planets/33/,Sullutese
+Neimodian,180,unknown,https://swapi.dev/api/planets/18/,Neimoidia
+Gungan,190,amphibian,https://swapi.dev/api/planets/8/,Gungan basic
+Toydarian,120,mammal,https://swapi.dev/api/planets/34/,Toydarian
+Dug,100,mammal,https://swapi.dev/api/planets/35/,Dugese
+Twi'lek,200,mammals,https://swapi.dev/api/planets/37/,Twi'leki
+Aleena,80,reptile,https://swapi.dev/api/planets/38/,Aleena
+Vulptereen,100,unknown,https://swapi.dev/api/planets/39/,vulpterish
+Xexto,125,unknown,https://swapi.dev/api/planets/40/,Xextese
+Toong,200,unknown,https://swapi.dev/api/planets/41/,Tundan
+Cerean,200,mammal,https://swapi.dev/api/planets/43/,Cerean
+Nautolan,180,amphibian,https://swapi.dev/api/planets/44/,Nautila
+Zabrak,180,mammal,https://swapi.dev/api/planets/45/,Zabraki
+Tholothian,unknown,mammal,https://swapi.dev/api/planets/46/,unknown
+Iktotchi,180,unknown,https://swapi.dev/api/planets/47/,Iktotchese
+Quermian,240,mammal,https://swapi.dev/api/planets/48/,Quermian
+Kel Dor,180,unknown,https://swapi.dev/api/planets/49/,Kel Dor
+Chagrian,190,amphibian,https://swapi.dev/api/planets/50/,Chagria
+Geonosian,178,insectoid,https://swapi.dev/api/planets/11/,Geonosian
+Mirialan,180,mammal,https://swapi.dev/api/planets/51/,Mirialan
+Clawdite,180,reptilian,https://swapi.dev/api/planets/54/,Clawdite
+Besalisk,178,amphibian,https://swapi.dev/api/planets/55/,besalisk
+Kaminoan,220,amphibian,https://swapi.dev/api/planets/10/,Kaminoan
+Skakoan,unknown,mammal,https://swapi.dev/api/planets/56/,Skakoan
+Muun,190,mammal,https://swapi.dev/api/planets/57/,Muun
+Togruta,180,mammal,https://swapi.dev/api/planets/58/,Togruti
+Kaleesh,170,reptile,https://swapi.dev/api/planets/59/,Kaleesh
+Pau'an,190,mammal,https://swapi.dev/api/planets/12/,Utapese
